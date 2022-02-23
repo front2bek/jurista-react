@@ -1,0 +1,47 @@
+{
+  "name": "barristar-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "*",
+    "bootstrap": "*",
+    "font-awesome": "*",
+    "joi-browser": "*",
+    "node-sass": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-modal-video": "*",
+    "react-odometerjs": "*",
+    "react-redux": "*",
+    "react-router-dom": "*",
+    "react-scripts": "*",
+    "react-slick": "*",
+    "react-toastify": "*",
+    "reactstrap": "*",
+    "redux": "*",
+    "redux-thunk": "*",
+    "sass-loader": "*",
+    "slick-carousel": "*"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
