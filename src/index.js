@@ -11,6 +11,9 @@ import * as serviceWorker from './serviceWorker';
 import { Provider } from 'react-redux'
 import store from './store'
 import './index.scss';
+
+import './i18n';
+
 const app = (
     <Provider store={store}>
         <App />

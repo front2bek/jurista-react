@@ -21,7 +21,10 @@
     "redux": "*",
     "redux-thunk": "*",
     "sass-loader": "*",
-    "slick-carousel": "*"
+    "slick-carousel": "*",
+    "react-i18next": "*",
+    "i18next": "*",
+    "i18next-xhr-backend": "*"
   },
   "scripts": {
     "start": "react-scripts start",
